@@ -1,6 +1,7 @@
 <!-- Center-align your name and introduction -->
 
-![My Image]
+<p align="center" ><img src="dev.gif" alt="My Image" width="800" height="600"></p>
+
 
 
 <h1 align="center">Hi 👋, I'm Ranville Christopher Carlo</h1>
