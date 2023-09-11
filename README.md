@@ -1,7 +1,7 @@
 <!-- Center-align your name and introduction -->
 <p align="center"><img src="dev1.gif"></p>
 <h1 align="center">Hi 👋, I'm Ranville Christopher Carlo</h1>
-<h3 align="center">A full-stack developer(Beginer)</h3>
+<h3 align="center">A full-stack developer</h3>
 
 <!-- Center-align the profile views badge -->
 <p align="center">
